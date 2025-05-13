@@ -1,1 +1,1 @@
-#Web development Projects using JavaScript
+**Web development Projects using JavaScript**
